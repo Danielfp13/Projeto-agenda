@@ -1,0 +1,14 @@
+.full-width {
+    width: 100%;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.table-width {
+    width: 70%;
+    margin-left: 13%;
+}
